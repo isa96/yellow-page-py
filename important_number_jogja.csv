@@ -1,0 +1,51 @@
+id;name;phone number;category;regency;bookmark
+41;PMI KOTA JOGJA;372176;pmi;yogyakarta;yes
+49;RSUD BANTUL;367381;rumah sakit;bantul;yes
+1;PEMDA DIY;562811;pemerintah daerah;sleman;no
+2;PEMDA GUNUNG KIDUL;391761;pemerintah daerah;gunung kidul;no
+3;PEMDA KULON PROGO;773238;pemerintah daerah;kulon progo;no
+4;PEMDA SLEMAN;868405;pemerintah daerah;sleman;no
+5;PEMDA KOTA JOGJA;515865;pemerintah daerah;yogyakarta;no
+6;PEMDA BANTUL;367509;pemerintah daerah;bantul;no
+7;STASIUN TUGU;589685;stasiun;yogyakarta;no
+8;STASIUN LEMPUYANGAN;512454;stasiun;yogyakarta;no
+9;STASIUN STASIUN WATES;773021;stasiun;yogyakarta;no
+10;BANDARA ADISUCIPTO;512143;penerbangan;yogyakarta;no
+11;GARUDA AIR;522148;penerbangan;yogyakarta;no
+12;MERPATI AIR;514272;penerbangan;yogyakarta;no
+13;MANDALA AIR;520603;penerbangan;yogyakarta;no
+14;BATAVIA AIR;547373;penerbangan;yogyakarta;no
+15;BOURAQ AIR;383414;penerbangan;yogyakarta;no
+16;LION AIR;555029;penerbangan;yogyakarta;no
+17;WINGS AIR;555028;penerbangan;yogyakarta;no
+18;KANTOR PUSAT PDAM;868667;pdam;yogyakarta;no
+19;PDAM SLEMAN TENGAH (BERAN);863375;pdam;sleman;no
+20;PDAM SLEMAN BARAT (GODEAN);797286;pdam;sleman;no
+21;PDAM SLEMAN TIMUR (KALASAN);497857;pdam;sleman;no
+22;PDAM DEPOK;881792;pdam;sleman;no
+23;PDAM SLEMAN UTARA (NGAGLIK);884300;pdam;sleman;no
+24;PENERANGAN;108;telekomunikasi;yogyakarta;no
+25;GANGGUAN TELEPON;117;telekomunikasi;yogyakarta;no
+26;PEMADAM DIY;587101;pemadam kebakaran;sleman;no
+27;PEMADAM SLEMAN;868351;pemadam kebakaran;yogyakarta;no
+28;SAR DIY;563231;sar;yogyakarta;no
+29;POLDA DIY;563494;polisi;yogyakarta;no
+30;POLRES GUNUNG KIDUL;91110;polisi;gunung kidul;no
+31;POLRES KULON PROGO;93110;polisi;kulon progo;no
+32;POLRES SLEMAN;868410;polisi;sleman;no
+33;POLTABES YOGYA;512940;polisi;yogyakarta;no
+34;POLRES BANTUL;367410;polisi;bantul;no
+35;PAMAPTA POLSEKTA;512511;polisi;yogyakarta;no
+36;SAT IPP;562469;polisi;yogyakarta;no
+37;SATSERSE;563139;polisi;yogyakarta;no
+38;UNIT LAKALANTAS;513237;polisi;yogyakarta;no
+39;URUSAN SIM;566887;polisi;yogyakarta;no
+40;PMI DIY;376812;pmi;yogyakarta;no
+42;PMI SLEMAN;868900;pmi;sleman;no
+43;RSUP DR. SARDJITO;587333;rumah sakit;yogyakarta;no
+44;RS PKU MUHAMMADIYAH;512653;rumah sakit;sleman;no
+45;RS PANTI RAPIH;514845;rumah sakit;sleman;no
+46;RS BETHESDA;586688;rumah sakit;sleman;no
+47;RSKB PATMASURI;372022;rumah sakit;sleman;no
+48;RSI HIDAYATULAH;389194;rumah sakit;yogyakarta;no
+50;RS LUDIRA HUSADA;620333;rumah sakit;yogyakarta;no
